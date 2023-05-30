@@ -1,0 +1,5 @@
+{
+  "name": "splunkEventToken",
+  "value": "<Splunk Token>",
+  "from_secret": false
+}

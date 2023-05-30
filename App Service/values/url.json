@@ -1,0 +1,5 @@
+{
+  "name": "url",
+  "value": "<Splunk URL>",
+  "from_secret": false
+}
